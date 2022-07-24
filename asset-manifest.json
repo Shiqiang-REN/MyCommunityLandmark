@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MyCommunityLandmark/static/css/main.8e96e929.css",
+    "main.js": "/MyCommunityLandmark/static/js/main.34aea742.js",
+    "static/js/787.09bdff64.chunk.js": "/MyCommunityLandmark/static/js/787.09bdff64.chunk.js",
+    "index.html": "/MyCommunityLandmark/index.html",
+    "main.8e96e929.css.map": "/MyCommunityLandmark/static/css/main.8e96e929.css.map",
+    "main.34aea742.js.map": "/MyCommunityLandmark/static/js/main.34aea742.js.map",
+    "787.09bdff64.chunk.js.map": "/MyCommunityLandmark/static/js/787.09bdff64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e96e929.css",
+    "static/js/main.34aea742.js"
+  ]
+}
